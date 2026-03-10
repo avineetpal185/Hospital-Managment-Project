@@ -1,2 +1,2 @@
 # Hotel-Managment
-It is hotel managmnet project made in python
+It is the Hospital managmnet project made in python
